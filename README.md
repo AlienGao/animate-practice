@@ -1,2 +1,2 @@
 # animate-practice
-css
+css 动画练习
