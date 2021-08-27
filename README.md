@@ -3,4 +3,7 @@
 2. [loading](https://aliengao.github.io/animate-practice/loading.html)
 3. [tubelight-text](https://aliengao.github.io/animate-practice/tubelight-text.html)
 4. [eyes-follow-mouse](https://aliengao.github.io/animate-practice/eyes-follow-mouse.html)
-4. [drop-shadow](https://aliengao.github.io/animate-practice/drop-shadow.html)
+5. [drop-shadow](https://aliengao.github.io/animate-practice/drop-shadow.html)
+6. [pencil-stroke](https://aliengao.github.io/animate-practice/pencil-stroke.html)
+7. [rain](https://aliengao.github.io/animate-practice/rain.html)
+8. [text-filling](https://aliengao.github.io/animate-practice/text-filling.html)
