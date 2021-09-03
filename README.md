@@ -10,3 +10,4 @@
 9. [shape-outside](https://aliengao.github.io/animate-practice/shape-outside.html)
 10. [3D-text-blur](https://aliengao.github.io/animate-practice/3D-text-blur.html)
 11. [falling-leaves](https://aliengao.github.io/animate-practice/falling-leaves.html)
+12. [gta5](https://aliengao.github.io/animate-practice/gta5.html)
