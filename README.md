@@ -7,3 +7,6 @@
 6. [pencil-stroke](https://aliengao.github.io/animate-practice/pencil-stroke.html)
 7. [rain](https://aliengao.github.io/animate-practice/rain.html)
 8. [text-filling](https://aliengao.github.io/animate-practice/text-filling.html)
+9. [shape-outside](https://aliengao.github.io/animate-practice/shape-outside.html)
+10. [3D-text-blur](https://aliengao.github.io/animate-practice/3D-text-blur.html)
+11. [falling-leaves](https://aliengao.github.io/animate-practice/falling-leaves.html)
